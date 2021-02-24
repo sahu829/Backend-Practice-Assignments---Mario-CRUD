@@ -1,7 +1,7 @@
 
 const mongoose = require("mongoose");
 
-//  Your code goes here
+//  Your code goes here to do
 const marioSchema = new mongoose.Schema({
   name: {
     type: String,
